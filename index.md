@@ -2,7 +2,7 @@
 title: "Gap Tap Support & FAQs"
 layout: splash
 classes: wide
-toc: true
+minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"toc: true
 ---
 
 # **Gap Tap Support & FAQs**
