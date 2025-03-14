@@ -1,7 +1,15 @@
-```markdown
-## **Gap Tap Support & FAQs**
+---
+title: "Gap Tap Support & FAQs"
+layout: splash
+classes: wide
+toc: true
+---
 
-Welcome to the Gap Tap support page! Below you'll find answers to common questions about using Gap Tap effectively. If you need further assistance, reach out to us at **support@gap-tap.com** or call our support hotline (**coming soon**).
+# **Gap Tap Support & FAQs**
+
+Welcome to the Gap Tap support page! Below you'll find answers to common questions about using Gap Tap effectively.
+
+If you need further assistance, reach out to us at **[support@gap-tap.com](mailto:support@gap-tap.com)** or call our support hotline (**coming soon**).
 
 ---
 
@@ -17,6 +25,7 @@ Welcome to the Gap Tap support page! Below you'll find answers to common questio
 
 ### **How can I improve suction/adhesion?**
 To ensure the best seal, follow these tips:
+
 - **Use the included silicone pad**: If your floor has grooves or uneven surfaces, place the provided silicone pad beneath the cup to improve the seal.
 - **Apply firm pressure**: Press down firmly when placing the Gap Tap to remove any trapped air.
 - **Ensure the floor is clean**: Dirt, dust, or moisture can reduce adhesion. Wipe the area dry before applying.
@@ -25,12 +34,15 @@ To ensure the best seal, follow these tips:
 ---
 
 ### **Can I reuse Gap Tap?**
-Yes! Gap Tap is designed for repeated use. Simply clean the suction cup with a damp cloth if it collects dust or debris. For best results, store it in a cool, dry place.
+Yes! Gap Tap is designed for repeated use. Simply clean the suction cup with a damp cloth if it collects dust or debris.
+
+For best results, store it in a cool, dry place.
 
 ---
 
 ### **What types of floors does Gap Tap work on?**
 Gap Tap works on:
+
 - **Smooth hardwood**
 - **Tile**
 - **Laminate**
@@ -43,6 +55,7 @@ If you're unsure, test the adhesion before extended use.
 
 ### **What if Gap Tap isn’t sealing properly?**
 Try the following fixes:
+
 - Ensure the suction cup and floor are clean and dry.
 - Use the silicone pad for textured surfaces.
 - Apply more pressure when securing Gap Tap.
@@ -50,6 +63,7 @@ Try the following fixes:
 
 ---
 
-### **Need More Help?**
-If you have additional questions, contact us at **support@gap-tap.com**. Our support hotline is **coming soon**!
-```
+## **Need More Help?**
+If you have additional questions, contact us at **[support@gap-tap.com](mailto:support@gap-tap.com)**.
+
+Our support hotline is **coming soon**!
