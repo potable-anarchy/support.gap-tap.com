@@ -1,3 +1,66 @@
-remote_theme: mmistakes/minimal-mistakes
+# Minimal Mistakes Theme Setup
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # Other options: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale: "en-US"
+title: "Gap Tap - Customer Support"
+title_separator: "-"
+name: "Gap Tap Customer Support"
+description: "The best customer support website in the world."
+url: "https://potable-anarchy.github.io" # Base domain (without trailing slash)
+baseurl: "/support.gap-tap.com" # Matches repo structure (don't leave it as "/")
+repository: "potable-anarchy/support.gap-tap.com" # Your GitHub repo
+
+# Permalinks
+permalink: pretty # Removes .html from URLs
+
+# Markdown Processing & Code Highlighting
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  toc_levels: 1..6 # Table of contents levels
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+# Navigation & Layout
+breadcrumbs: true
+toc: true # Enable Table of Contents globally
+classes: wide # Ensures content uses full width
+
+# Search & SEO
+search: true
+search_provider: lunr # Lightweight search engine (or use "algolia" for better results)
+
+# Author Info
+author:
+  name: "Gap Tap Support"
+  email: "support@gap-tap.com"
+
+# Plugins
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
   - jekyll-include-cache
+
+# Output Settings
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Default Layout for Pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      toc: true
+      classes: wide
+      author_profile: false
