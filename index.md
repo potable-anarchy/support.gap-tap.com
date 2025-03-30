@@ -6,15 +6,16 @@ minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "n
 ---
 ## **Gap Tap Support & FAQs**
 
-Welcome to the Gap Tap support page! Below you'll find answers to common questions about using Gap Tap effectively. If you need further assistance, reach out to us at **support@gap-tap.com**.
+Welcome to the Gap Tap support page! 
+Below you'll find answers to common questions about using Gap Tap effectively. If you need further assistance, reach out to us at **support@gap-tap.com**.
 
 ---
 
 ## **Frequently Asked Questions**
 
 ### **How do I use Gap Tap?**
-1. **Place the Gap Tap** over the floor panel you need to shift to close the gap.
-2. **Ensure a clean surface** by wiping away dust or debris.
+1. **Ensure a clean surface** by wiping away dust or debris with a clean cloth.
+2. **Place the Gap Tap** over the floor panel you need to shift to close the gap.
 3. **Clean the gap** using a vacuum, brush, or pick to remove any trapped dirt.
 4. **Press down firmly** to create an airtight seal and lock the suction cup into place.
 5. **Tap the panel into place** using gentle force with either the included Gap Tap mallet or a compatible tool.
