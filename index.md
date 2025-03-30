@@ -16,8 +16,8 @@ Below you'll find answers to common questions about using Gap Tap effectively. I
 
 ### **How do I use Gap Tap?**
 1. **Ensure a clean surface** by wiping away dust or debris with a clean cloth.
-2. **Place the Gap Tap** over the floor panel you need to shift to close the gap.
-3. **Clean the gap** using a vacuum, brush, or pick to remove any trapped dirt.
+2. **Clean the gap** using a vacuum, brush, or pick to remove any trapped dirt.
+3. **Place the Gap Tap** over the floor panel you need to shift to close the gap.
 4. **Press down firmly** to create an airtight seal and lock the suction cup into place.
 5. **Tap the panel into place** using gentle force with either the included Gap Tap mallet or a compatible tool.
 
@@ -25,9 +25,9 @@ Below you'll find answers to common questions about using Gap Tap effectively. I
 
 ### **How can I improve suction/adhesion?**
 To ensure the best seal, follow these tips:
-- **Use the included silicone pad**: For **grooved or textured floors with a glossy finish**, place the silicone pad beneath the suction cup to enhance the seal.
-- **Apply firm pressure**: Press down firmly when placing the Gap Tap to remove any trapped air.
 - **Ensure the floor is clean**: Dirt, dust, or moisture can reduce adhesion. Wipe the area dry before applying.
+- **Apply firm pressure**: Press down firmly when placing the Gap Tap to remove any trapped air.
+- **Use the included silicone pad**: For **grooved or textured floors with a glossy finish**, place the silicone pad beneath the suction cup to enhance the seal.
 - **Use petroleum jelly**: For **matte or porous grooved floors**, apply a thin layer of petroleum jelly or silicone grease around the edge of the suction cup to create a stronger seal.
 
 ---
