@@ -7,6 +7,7 @@ minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "n
 ## **Gap Tap Support & FAQs**
 
 Welcome to the Gap Tap support page! 
+
 Below you'll find answers to common questions about using Gap Tap effectively. If you need further assistance, reach out to us at **support@gap-tap.com**.
 
 ---
