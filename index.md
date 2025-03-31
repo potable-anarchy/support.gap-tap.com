@@ -9,6 +9,7 @@ minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "n
 ### **Safety First!**
 Always wear safety glasses and gloves when using Gap Tap. Keep your fingers and other body parts clear of the striking area.
 Use the tool only as directed to avoid damage to the flooring or injury.
+
 ---
 1. **Prepare**
 - Remove debris from the gap with a vacuum, toothpick, or other tool.
