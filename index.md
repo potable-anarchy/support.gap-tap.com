@@ -4,15 +4,10 @@ layout: splash
 classes: wide
 minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"toc: true
 ---
-## **Gap Tap Support & FAQs**
-
-Welcome to the Gap Tap support page! 
-
-Below you'll find answers to common questions about using Gap Tap effectively. If you need further assistance, reach out to us at **support@gap-tap.com**.
-
+# **Gap Tap Support & FAQs**
 ---
 
-## **Frequently Asked Questions**
+## **Getting Started**
 
 ### **How do I use Gap Tap?**
 1. **Ensure a clean surface** by wiping away dust or debris with a clean cloth.
@@ -60,4 +55,3 @@ Try these troubleshooting steps:
 
 ### **Need More Help?**
 If you have additional questions, don’t hesitate to contact us at **support@gap-tap.com**. We’re here to help!
-
