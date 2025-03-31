@@ -14,8 +14,9 @@ Use the tool only as directed to avoid damage to the flooring or injury.
 1. **Prepare**
 - Remove debris from the gap with a vacuum, toothpick, or other tool.
 - Clean the panel with a microfiber cloth and let it dry.
-- If you're working with a **grooved or textured floor**, use the included silicone pad to enhance the seal.
+- If you're working with a **grooved or textured floor**, lay down the included silicone pad between the Gap Tap and the floor to enhance the seal.
 - For **matte or porous grooved floors**, apply a thin layer of petroleum jelly or silicone grease around the edge of the suction cup to create a stronger seal.
+**Note:** Avoid using petroleum jelly and silicone grease with the included silicone pad.
 
 2. **Position**
 - Place the suction cup on the floor panel closest to the wall, in-line with the gap.
@@ -31,7 +32,7 @@ Use the tool only as directed to avoid damage to the flooring or injury.
 ### **Improving Suction Cup Performance**
 To ensure the best seal, follow these tips:
 - **Ensure the floor is clean**: Dirt, dust, or moisture can reduce adhesion. Wipe the area dry before applying.
-- **Apply firm pressure**: Press down firmly when placing the Gap Tap to remove any trapped air.
+- **Apply firm pressure**: Press down firmly when locking the Gap Tap to remove any trapped air.
 - **Use the included silicone pad**: For **grooved or textured floors with a glossy finish**, place the silicone pad beneath the suction cup to enhance the seal.
 - **Use petroleum jelly**: For **matte or porous grooved floors**, apply a thin layer of petroleum jelly or silicone grease around the edge of the suction cup to create a stronger seal.
 
