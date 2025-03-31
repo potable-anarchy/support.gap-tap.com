@@ -54,15 +54,5 @@ Gap Tap is compatible with floor panels **wider than 5 1/4 inches** and works on
 
 ---
 
-### **What if Gap Tap isn’t sealing properly?**
-Try these troubleshooting steps:
-- **Clean and Dry the Surface**: Ensure both the suction cup and the floor are free of dust, dirt, or moisture. A dry surface improves suction.
-- **Use the Silicone Pad**: For **textured or grooved surfaces with a glossy finish**, place the silicone pad underneath the suction cup to create a tighter seal.
-- **Apply Firm Pressure**: Press down firmly to remove any trapped air before locking the suction cup into place.
-- **Reposition if Needed**: Slight adjustments can help the suction cup find the optimal spot for a strong hold.
-- **Use Petroleum Jelly**: For **matte or porous grooved floors**, apply a thin layer of petroleum jelly around the suction cup's edge. This creates an airtight seal for better grip.
-
----
-
 ### **Need More Help?**
 If you have additional questions, don’t hesitate to contact us at **support@gap-tap.com**. We’re here to help!
