@@ -4,17 +4,24 @@ layout: splash
 classes: wide
 minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"toc: true
 ---
-# **Gap Tap Support & FAQs**
+# **Getting Started**
 ---
+### **Safety First!**
+Always wear safety glasses and gloves when using Gap Tap. Keep your fingers and other body parts clear of the striking area.
+Use the tool only as directed to avoid damage to the flooring or injury.
+---
+1. **Prepare**
+- Remove debris from the gap with a vacuum, toothpick, or other tool.
+- Clean the panel with a microfiber cloth and let it dry.
 
-## **Getting Started**
+2. **Position**
+- Place the suction cup on the floor panel closest to the wall, in-line with the gap.
+- Press down and lock the suction cup firmly.
 
-### **How do I use Gap Tap?**
-1. **Ensure a clean surface** by wiping away dust or debris with a clean cloth.
-2. **Clean the gap** using a vacuum, brush, or pick to remove any trapped dirt.
-3. **Place the Gap Tap** over the floor panel you need to shift to close the gap.
-4. **Press down firmly** to create an airtight seal and lock the suction cup into place.
-5. **Tap the panel into place** using gentle force with either the included Gap Tap mallet or a compatible tool.
+3. **TAP**
+- Strike the designated area with a hammer or kick gently.
+- Repeat until the gap is closed.
+- Unlock and remove Gap Tap when done.
 
 ---
 
