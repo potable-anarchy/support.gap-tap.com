@@ -15,8 +15,7 @@ Use the tool only as directed to avoid damage to the flooring or injury.
 - Remove debris from the gap with a vacuum, toothpick, or other tool.
 - Clean the panel with a microfiber cloth and let it dry.
 - If you're working with a **grooved or textured floor**, lay down the included silicone pad between the Gap Tap and the floor to enhance the seal.
-- For **matte or porous grooved floors**, apply a thin layer of petroleum jelly or silicone grease around the edge of the suction cup to create a stronger seal.
-**Note:** Avoid using petroleum jelly and silicone grease with the included silicone pad.
+- For **matte or porous grooved floors**, apply a thin layer of silicone grease around the edge of the suction cup to create a stronger seal.
 
 2. **Position**
 - Place the suction cup on the floor panel closest to the wall, in-line with the gap.
@@ -50,7 +49,7 @@ Gap Tap is designed for repeated use. To keep it in top condition:
 Gap Tap is compatible with floor panels **wider than 5 1/4 inches** and works on:
 - **Laminate Flooring**
 - **Vinyl Flooring**
-- **Textured Floors** *(When used with the silicone pad or petroleum jelly for better adhesion)*
+- **Textured Floors** *(When used with the silicone pad or silicone grease for better adhesion)*
 
 ---
 
