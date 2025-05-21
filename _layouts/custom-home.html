@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<!-- Top Search Bar -->
+{% if site.search == true %}
+<div style="display: flex; justify-content: center; margin: 2rem 0;">
+    <button class="search__toggle" type="button" style="display: flex; align-items: center; gap: 0.5rem;">
+        <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search"
+            }}</span>
+        <i class="fas fa-search" aria-hidden="true"></i>
+        <span>Click here to search</span>
+    </button>
+</div>
+{% endif %}
+
+
+
+<!-- Hero Section with Video -->
+<section class="hero wrapper" style="text-align: center; padding: 2rem 1rem;">
+    <h1>Welcome to Gap Tap Support</h1>
+    <p style="font-size: 1.2rem; max-width: 600px; margin: 1rem auto;">
+        Learn how to fix flooring gaps fast with Gap Tap — watch our quick getting started guide.
+    </p>
+    <div class="responsive-video-wrapper" style="max-width: 720px; margin: 2rem auto;">
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+            <iframe src="https://www.youtube.com/embed/SXgAJ6p061Y" frameborder="0" allowfullscreen
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+            </iframe>
+        </div>
+    </div>
+
+</section>
+
+<!-- Support Topics Section -->
+<!-- Support Topics Section -->
+<section class="wrapper" style="padding: 1rem 1rem;">
+    <h2>How can we help you?</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin-top: 1rem;">
+
+        {% for post in site.posts %}
+        <a href="{{ post.url | relative_url }}"
+            style="flex: 1 1 250px; max-width: 300px; text-decoration: none; border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: box-shadow 0.3s ease; color: inherit;">
+            <h3 style="margin-top: 0;">{{ post.title }}</h3>
+            <p>{{ post.description }}</p>
+        </a>
+        {% endfor %}
+
+
+
+    </div>
+</section>

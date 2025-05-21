@@ -1,6 +1,6 @@
 ---
 title: "Gap Tap Support & FAQs"
-layout: splash
+layout: custom-home
 classes: wide
 minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"toc: true
 ---

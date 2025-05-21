@@ -1,6 +1,6 @@
 # Minimal Mistakes Theme Setup
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt" # Other options: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # Other options: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
@@ -64,3 +64,10 @@ defaults:
       toc: true
       classes: wide
       author_profile: false
+
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+    - assets/css
+
