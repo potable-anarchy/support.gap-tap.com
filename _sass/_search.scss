@@ -1,0 +1,129 @@
+/* Global Media Query Helper */
+$mobile-breakpoint: 600px;
+
+/* Search toggle wrapper */
+.search-toggle-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+    padding: 0 1rem;
+
+    .search__toggle {
+        width: 100%;
+        max-width: 400px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+        padding: 1rem 1.5rem;
+        background-color: white;
+        color: black;
+        border-radius: 999px;
+        font-size: 1.1rem;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+        transition: background-color 0.2s ease;
+
+        i {
+            font-size: 1.2rem;
+        }
+    }
+}
+
+
+/* Hero Section */
+.custom-hero {
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.hero-description {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 1rem auto;
+}
+
+.responsive-video-wrapper {
+    max-width: 720px;
+    margin: 2rem auto;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+/* Support Topics */
+.support-topics {
+    padding: 1rem 1rem;
+}
+
+.topics-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.topic-card {
+    flex: 1 1 250px;
+    max-width: 300px;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    color: inherit;
+
+    &:hover {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    h3 {
+        margin-top: 0;
+    }
+}
+
+/* 📱 Responsive Improvements */
+@media (max-width: $mobile-breakpoint) {
+    .search-toggle-wrapper {
+        padding: 0 1rem;
+
+        .search__toggle {
+            width: 100%;
+            justify-content: center;
+            font-size: 0.95rem;
+            padding: 0.5rem 1rem;
+        }
+    }
+
+    .custom-hero {
+        padding: 1.5rem 1rem;
+    }
+
+    .hero-description {
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+
+    .topics-grid {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .topic-card {
+        max-width: 90%;
+        flex: 1 1 auto;
+    }
+}
