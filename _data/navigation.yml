@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Contact Us"
     url: "/"
-  - title: "About"
-    url: "/"
+  # title: "About"
+  # url: "/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

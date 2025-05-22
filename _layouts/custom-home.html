@@ -2,7 +2,14 @@
 layout: default
 ---
 
-<!-- Top Search Bar -->
+
+<!-- Hero Text -->
+<section class="custom-hero wrapper">
+    <h1>Welcome to Gap Tap Support</h1>
+
+</section>
+
+<!-- Search -->
 {% if site.search == true %}
 <div class="search-toggle-wrapper">
     <button class="search__toggle" type="button">
@@ -12,25 +19,29 @@ layout: default
         <i class="fas fa-search" aria-hidden="true"></i>
         <span>Click here to search</span>
     </button>
+
+
+
 </div>
 {% endif %}
+<section class="support-topics wrapper">
+    <h3>Hi! How can we help?</h3>
 
-<!-- Hero Section with Video -->
-<section class="custom-hero wrapper">
-    <h1>Welcome to Gap Tap Support</h1>
-    <p class="hero-description">
-        Learn how to fix flooring gaps fast with Gap Tap — watch our quick getting started guide.
-    </p>
+</section>
+
+<!-- Video Section -->
+<section class="video-section wrapper">
     <div class="responsive-video-wrapper">
         <div class="video-container">
-            <iframe src="https://www.youtube.com/embed/SXgAJ6p061Y" frameborder="0" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/SXgAJ6p061Y" frameborder="0" allowfullscreen
+                title="Getting Started with Gap Tap"></iframe>
         </div>
     </div>
 </section>
 
 <!-- Support Topics Section -->
 <section class="support-topics wrapper">
-    <h2>How can we help you?</h2>
+    <h2>Popular Support Articles</h2>
     <div class="topics-grid">
         {% for post in site.posts %}
         <a href="{{ post.url | relative_url }}" class="topic-card">
