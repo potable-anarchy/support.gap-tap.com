@@ -8,6 +8,16 @@ permalink: /getting-started/
 ### **Safety First!**
 Always wear safety glasses and gloves when using Gap Tap. Keep your fingers and other body parts clear of the striking area.
 Use the tool only as directed to avoid damage to the flooring or injury.
+---
+
+<section class="video-section wrapper">
+    <div class="responsive-video-wrapper">
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/SXgAJ6p061Y" frameborder="0" allowfullscreen
+                title="Getting Started with Gap Tap"></iframe>
+        </div>
+    </div>
+</section>
 
 ---
 1. **Prepare**
