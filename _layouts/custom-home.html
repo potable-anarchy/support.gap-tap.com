@@ -47,6 +47,15 @@ layout: default
     <div class="topics-grid">
         {% for post in site.posts %}
         <a href="{{ post.url | relative_url }}" class="topic-card">
+
+            {% if post.title contains "Getting Started" %}
+            <i class="fas fa-play-circle topic-icon"></i>
+            {% elsif post.title contains "Improving Suction" %}
+            <i class="fas fa-cogs topic-icon"></i>
+            {% elsif post.title contains "Safety First" %}
+            <i class="fas fa-glasses topic-icon"></i>
+            {% endif %}
+
             <h3>{{ post.title }}</h3>
             <p>{{ post.description }}</p>
         </a>

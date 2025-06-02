@@ -178,3 +178,36 @@ $mobile-breakpoint: 600px;
         height: 32px;
     }
 }
+
+// Icon 
+$mobile-breakpoint: 600px;
+
+.topic-icon {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topic-card {
+    text-align: center;
+}
+
+@media (max-width: $mobile-breakpoint) {
+    .topic-icon {
+        font-size: 1.4rem;
+    }
+}
+
+// Nav link 
+
+.visible-links {
+    a[href="mailto:support@gap-tap.com"] {
+        &:before {
+            background: #2e7d32;
+            /* your custom underline color */
+        }
+    }
+}
